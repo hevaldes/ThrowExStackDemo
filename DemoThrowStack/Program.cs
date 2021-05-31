@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace DemoThrowStack
 {
     class Program
@@ -12,12 +11,10 @@ namespace DemoThrowStack
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.ToString());
-                Console.ReadLine();
-                
+                //Console.WriteLine(ex.ToString());
+                //Console.ReadLine();              
                 //Demo 1
-                throw ex;
-
+                //throw ex;
                 //Demo 2
                 throw;
             }
