@@ -47,7 +47,7 @@ En esta demostración observaremos como _throw ex;_ elimina el _stack_ original 
 ![Image](https://github.com/hevaldes/ThrowExStackDemo/blob/master/assets/ResultadoThrowEx.PNG "Rethrow to preserve stack details")
 
 7. Ahora comentaremos la línea 17 además de las líneas 14 y 15 que son informativas únicamente. 
-![Image](https://github.com/hevaldes/ThrowExStackDemo/blob/master/assets/Commnet17line.PNG "Rethrow to preserve stack details")
+![Image](https://github.com/hevaldes/ThrowExStackDemo/blob/master/assets/Comment17line.PNG "Rethrow to preserve stack details")
 
 8. Ejecutaremos y dejaremos que se realice solamente _throw;_ en la línea 19
 
